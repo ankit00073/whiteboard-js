@@ -1,10 +1,10 @@
 # whiteboard-js
 **Project Structure:**
 
-**1. Create a project folder with the following structure:**
-   ├── index.html
-   ├── style.css
-   └── script.js
+**1. Create a project folder with the following structure:**<br />
+   ├── index.html<br />
+   ├── style.css<br />
+   └── script.js<br />
 
 **2. **HTML Structure (index.html)****
 
