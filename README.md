@@ -14,7 +14,7 @@
 **4.JavaScript File (script.js)**
   The script.js file in this project contains the client-side JavaScript code responsible for creating a whiteboard with drawing capabilities, along with undo and delete functionality. Below is an overview of   its key features:
   
- ** Initialization:**
+ **Initialization:**
   
   It initializes variables and retrieves necessary HTML elements from the DOM, including the canvas, delete button, and undo button.
   The canvas element is used for drawing.
