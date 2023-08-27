@@ -35,7 +35,8 @@
   
   addObjectToCanvas(path): Adds a drawing path to the objects array. Each object in the array represents a collection of points that make up a drawing.
   Event Listeners:
-  
+
+ ** Hosted link :-** https://ankit00073.github.io/whiteboard-js/
   Event listeners are set up for mouse interactions (mousedown, mousemove, mouseup, mouseout) on the canvas, as well as for the delete and undo buttons.
   This JavaScript file enables users to draw on the canvas, undo their drawings, and clear the entire whiteboard. It achieves this by managing drawing data in the objects array and continuously redrawing the    canvas to display the current state of the whiteboard.
 
