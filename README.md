@@ -6,9 +6,10 @@
    ├── style.css<br />
    └── script.js<br />
 
-**2. **HTML Structure (index.html)****
+**2. **HTML Structure (index.html)****<br />
+   -> Write the skeleton of the webpage here.
 
-**3. **CSS Styling (style.css)****
+**3. **CSS Styling (style.css)****<br />
    -> Create a CSS file to style the whiteboard and buttons as needed.
    
 **4.JavaScript File (script.js)**
